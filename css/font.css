@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'RR';
+    src: url(../fonts/Rubik-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'RB';
+    src: url(../fonts/Rubik-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'RL';
+    src: url(../fonts/Rubik-Light.ttf);
+}
+
+@font-face {
+    font-family: 'icons';
+    src: url(../fonts/icomoon.eot);
+    src: url(../fonts/icomoon.eot) format('embeded-opentype'), url(../fonts/icomoon.svg)format('svg'), url(../fonts/icomoon.ttf)format('trutype'), url(../fonts/icomoon.woff)format('woff');
+}
